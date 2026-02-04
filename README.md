@@ -24,6 +24,3 @@ Metode yang digunakan dalam aplikasi ini meliputi:
 - Chart.js
 - File CSV
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/FerdiSaputra30/analisis-sentimen-ikd.git
