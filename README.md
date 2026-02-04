@@ -24,3 +24,13 @@ Metode yang digunakan dalam aplikasi ini meliputi:
 - Chart.js
 - File CSV
 
+## Cara Menggunakan Aplikasi
+
+1. Buka aplikasi melalui browser
+2. Upload file CSV yang berisi ulasan pengguna
+3. Klik tombol Upload & Analisis
+4. Sistem akan menampilkan:
+                            1).Total ulasan
+                            2).Jumlah dan persentase sentimen
+                            3).Grafik pie distribusi sentimen
+                            4).Kesimpulan hasil analisis
